@@ -11,8 +11,8 @@ Passionnée par le développement web et les technologies interactives, je conç
 📊 Passionnée par la dataviz et l’interactivité  
 
 ## 📫 Me contacter  
-📧 Email : [ton.email@example.com](mailto:emmanuelle.nsossani@outlook.com)  
-🌍 Portfolio : [ton-portfolio.com](https://portfolio.emmanuellecode.fr/)  
-💼 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)  
+📧 Email : [emmanuelle.nsossani@outlook.com](mailto:emmanuelle.nsossani@outlook.com)  
+🌍 Portfolio : [[ton-portfoliocom.](https://portfolio.emmanuellecode.fr/)](https://portfolio.emmanuellecode.fr/)  
+💼 LinkedIn : [https://www.linkedin.com/in/ensossani/](https://www.linkedin.com/in/ensossani/)  
 
 N’hésite pas à explorer mes projets et à me contacter si tu souhaites échanger ! 🚀  
