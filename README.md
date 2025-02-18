@@ -12,7 +12,7 @@ Passionnée par le développement web et les technologies interactives, je conç
 
 ## 📫 Me contacter  
 📧 Email : [emmanuelle.nsossani@outlook.com](mailto:emmanuelle.nsossani@outlook.com)  
-🌍 Portfolio : [[ton-portfoliocom.](https://portfolio.emmanuellecode.fr/)](https://portfolio.emmanuellecode.fr/)  
+🌍 Portfolio : [[https://portfolio.emmanuellecode.fr/](https://portfolio.emmanuellecode.fr/)]
 💼 LinkedIn : [https://www.linkedin.com/in/ensossani/](https://www.linkedin.com/in/ensossani/)  
 
 N’hésite pas à explorer mes projets et à me contacter si tu souhaites échanger ! 🚀  
